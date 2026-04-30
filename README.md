@@ -1,6 +1,7 @@
 # Jack Yen
 ## Senior Android Developer
 
+![bg right:25%](./images/profile.jpg)
 ---
 
 # About Me
